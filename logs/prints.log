@@ -1,0 +1,6 @@
+11:31:46.612 [TestNG-tests-4] INFO  resources.base - ValidateTitle-Successfully validated text message
+11:31:46.670 [TestNG-tests-4] INFO  resources.base - Juan Manuel
+11:31:47.068 [TestNG-tests-2] INFO  resources.base - ValidateNavigationBar-Navigate to home page
+11:31:47.129 [TestNG-tests-2] INFO  resources.base - ValidateNavigationBar-Successfully validated navegation bar
+11:31:51.787 [TestNG-tests-3] INFO  resources.base - HomePage-Successfully user has logged
+11:31:55.012 [TestNG-tests-3] INFO  resources.base - HomePage-Successfully user has logged
